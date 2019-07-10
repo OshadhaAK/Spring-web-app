@@ -1,4 +1,4 @@
-Maven - Spring 3 MVC Hello World
+Maven - Spring 3 MVC 
 ===============================
 Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool.
 
@@ -16,11 +16,5 @@ $ mvn jetty:run
 ```
 Access ```http://localhost:8080/spring3```
 
-###3. To import this project into Eclipse IDE
-1. ```$ mvn eclipse:eclipse```
-2. Import into Eclipse via **existing projects into workspace** option.
-3. Done.
 
-###4. Project Demo
-Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)
 # Spring-web-app
